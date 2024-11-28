@@ -1,5 +1,11 @@
 # sv
 
+## 0.6.6
+### Patch Changes
+
+
+- chore: replace svelte-5-preview link ([#327](https://github.com/sveltejs/cli/pull/327))
+
 ## 0.6.5
 ### Patch Changes
 
